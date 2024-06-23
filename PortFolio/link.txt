@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=XRSQHkzrQGQ
+
+https://boxicons.com/
+
+1):	<script src="https://unpkg.com/typed.js@2.1.0/dist/typed.umd.js"></script>
+
+2):	<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11/lib/typed.min.js"></script>
+
+
+ReactJS:
+https://www.youtube.com/watch?v=LpZrAjU6Hhk
